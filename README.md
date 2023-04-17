@@ -74,7 +74,7 @@ Creas 6 funciones (recuerda que deben tener un decorador por cada una (@app.get(
 
 **`Deployment`**: Conoces sobre [Render](https://render.com/docs/free#free-web-services) y tienes un [tutorial de Render](https://github.com/HX-FNegrete/render-fastapi-tutorial) que te hace la vida mas facil :smile: . Tambien podrias usar [Railway](https://railway.app/), pero ten en cuenta que con este si necesitas dockerizacion.
 
-<br/>
+<br/>  https://dashboard.render.com/web/srv-cgusbd1euhlij50egve0
 
 **`Análisis exploratorio de los datos`**: _(Exploratory Data Analysis-EDA)_
 
@@ -85,7 +85,7 @@ Ya los datos están limpios, ahora es tiempo de investigar las relaciones que ha
 Una vez que toda la data es consumible por la API, está lista para consumir por los departamentos de Analytics y Machine Learning, y nuestro EDA nos permite entender bien los datos a los que tenemos acceso, es hora de entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas. Éste consiste en recomendar películas a los usuarios basándose en películas similares, por lo que se debe encontrar la similitud de puntuación entre esa película y el resto de películas, se ordenarán según el score y devolverá una lista de Python con 5 valores, cada uno siendo el string del nombre de las películas con mayor puntaje, en orden descendente. Debe ser deployado como una función adicional de la API anterior y debe llamarse get_recommendation(titulo: str).
 
 <br/>   https://github.com/ElinaFerreghini/Proyecto_Individual/blob/master/EDA_y_recomendacion.ipynb
-        https://ferre-deploy.onrender.com/docs#/
+       
 
 **`Video`**: Necesitas que al equipo le quede claro que tus herramientas funcionan realmente! Haces un video mostrando el resultado de las consultas propuestas y de tu modelo de ML entrenado!
 
