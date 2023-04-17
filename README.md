@@ -74,7 +74,7 @@ Creas 6 funciones (recuerda que deben tener un decorador por cada una (@app.get(
 
 **`Deployment`**: Conoces sobre [Render](https://render.com/docs/free#free-web-services) y tienes un [tutorial de Render](https://github.com/HX-FNegrete/render-fastapi-tutorial) que te hace la vida mas facil :smile: . Tambien podrias usar [Railway](https://railway.app/), pero ten en cuenta que con este si necesitas dockerizacion.
 
-<br/>  https://dashboard.render.com/web/srv-cgusbd1euhlij50egve0
+<br/>  https://dashboard.render.com/web/srv-cgusbd1euhlij50egve0         https://ferre-deploy.onrender.com/
 
 **`Análisis exploratorio de los datos`**: _(Exploratory Data Analysis-EDA)_
 
