@@ -12,6 +12,8 @@
 
 <hr>  
 
+LINK AL VIDEO DE YOUTUBE: https://youtu.be/I6_2gpagibE
+
 ## **Descripción del problema (Contexto y rol a desarrollar)**
 
 ## Contexto
